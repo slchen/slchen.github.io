@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css
+Disallow: /fancybox
+Disallow: /webfonts
+Disallow: /js
+Sitemap: /sitemap.xml

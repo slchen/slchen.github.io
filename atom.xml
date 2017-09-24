@@ -5,9 +5,9 @@
   <subtitle>software development and stock investiment</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://slchen.github.io/"/>
   <updated>2017-09-23T21:06:04.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://slchen.github.io/</id>
   
   <author>
     <name>slchen</name>
@@ -18,27 +18,27 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/24/hello-world/"/>
-    <id>http://yoursite.com/2017/09/24/hello-world/</id>
+    <link href="https://slchen.github.io/2017/09/24/hello-world/"/>
+    <id>https://slchen.github.io/2017/09/24/hello-world/</id>
     <published>2017-09-23T21:06:04.000Z</published>
     <updated>2017-09-23T21:06:04.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><code>Hello world, my first post.</code></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;code&gt;Hello world, my first post.&lt;/code&gt;&lt;/p&gt;
-
+        
+        
+          &lt;p&gt;&lt;code&gt;Hello world, my first
+        
       
     
     </summary>
     
-      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+      <category term="test" scheme="https://slchen.github.io/categories/test/"/>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="https://slchen.github.io/tags/test/"/>
     
   </entry>
   
